@@ -76,7 +76,7 @@ body {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.8;
-  color: #868e96;
+  color: #4D2F6B;
   background-color: #fff; }
 
 [tabindex="-1"]:focus {
@@ -334,7 +334,8 @@ h1, .h1 {
   font-size: 2.5rem; }
 
 h2, .h2 {
-  font-size: 2rem; }
+  font-size: 2rem;
+    color:#4D2F6B}
 
 h3, .h3 {
   font-size: 1.75rem; }
@@ -343,7 +344,8 @@ h4, .h4 {
   font-size: 1.5rem; }
 
 h5, .h5 {
-  font-size: 1.25rem; }
+  font-size: 1.25rem;
+color: #4D2F6B}
 
 h6, .h6 {
   font-size: 1rem; }
